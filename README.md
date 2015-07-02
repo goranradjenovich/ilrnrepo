@@ -1,2 +1,6 @@
 # ilrnrepo
-my first repo on github :)
+==========
+
+My first repo on github !
+
+I love :coffee:, :pizza:, and :dancer:.
